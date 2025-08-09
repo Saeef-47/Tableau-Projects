@@ -1,0 +1,29 @@
+# HR Analytics Dashboard
+**Data-Set:** `P3-HR-Analytics`
+
+## Project Overview
+This Tableau project focuses on analyzing HR data to understand workforce composition, monitor employee performance, and identify trends that impact retention and recruitment. The dashboard enables HR teams to make data-driven decisions and improve overall organizational efficiency.
+
+##  Objectives
+- Analyze employee demographics (age, gender, department).
+- Track attrition rates and identify contributing factors.
+- Monitor hiring trends and workforce growth.
+- Evaluate employee performance metrics.
+- Provide interactive tools for HR managers to drill down into specific employee segments.
+
+## Key Analyses & Visualizations
+1. **Employee Demographics** – Age groups, gender distribution, department breakdown.
+2. **Attrition Analysis** – Total attrition count, percentage, and trend over time.
+3. **Department-wise Attrition** – Highlighting high turnover areas.
+4. **Hiring Trends** – Yearly and monthly recruitment patterns.
+5. **Performance Ratings** – Distribution of employee performance scores.
+6. **KPI Dashboard** – Key HR metrics in a single view.
+7. **Interactive Filters** – Department, gender, education, job role.
+
+## Tools & Techniques Used
+- **Tableau Desktop**
+- **Calculated Fields & Table Calculations**
+- **Bar Charts, Line Graphs, Pie Charts**
+- **Interactive Filters & Parameters**
+- **Attrition Trend Analysis**
+- **KPI Cards**
