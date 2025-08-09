@@ -1,0 +1,27 @@
+# Boston House Analysis Dashboard  
+**Data-Set:** `P1-Boston-House-Analysis`
+
+##  Project Overview  
+This Tableau project analyzes the Boston Housing dataset to reveal insights about housing prices and influential factors. The interactive dashboard supports home buyers, real estate analysts, and policymakers in understanding the housing market dynamics in Boston.
+
+##  Objectives  
+- Explore the distribution of housing prices across Boston neighborhoods.  
+- Analyze the impact of crime rates, room counts, and accessibility on home values.  
+- Visualize relationships between socio-economic factors and housing prices.  
+- Identify key predictors of median home value.  
+- Provide an interactive Tableau dashboard for easy data exploration.
+
+##  Key Analyses & Visualizations  
+1. **Housing Price Distribution** – Histogram and box plots showing price spread.  
+2. **Crime Rate Impact** – Scatter plot of crime rate vs. median house price.  
+3. **Average Rooms vs Price** – Bar chart illustrating average rooms per dwelling and corresponding prices.  
+4. **Accessibility Effects** – Map visualizing proximity to highways and employment centers.  
+5. **Correlation Heatmap** – Matrix showing relationships between variables.  
+6. **Interactive Filters** – Filter by neighborhood, price range, and other features.
+
+##  Tools & Techniques Used  
+- **Tableau Desktop**  
+- **Calculated Fields for Price and Feature Segmentation**  
+- **Geo Maps for Neighborhood Visualization**  
+- **Interactive Filters and Dashboard Actions**  
+- **Data Blending and Aggregation**
