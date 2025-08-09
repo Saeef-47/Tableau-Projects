@@ -1,0 +1,26 @@
+# Rainfall Analysis Dashboard
+**Project Code:** `P6-Rainfall-Analysis`
+
+##  Project Overview
+This Tableau project visualizes rainfall patterns across regions and time periods to identify seasonal trends, anomalies, and long-term climate changes. It is aimed at supporting agricultural planning, water resource management, and climate research.
+
+##  Objectives
+- Analyze rainfall distribution across different regions.
+- Study seasonal and monthly rainfall variations.
+- Identify years with extreme rainfall events (droughts or floods).
+- Detect long-term rainfall trends over decades.
+- Provide an interactive dashboard for in-depth exploration.
+
+##  Key Analyses & Visualizations
+1. **Regional Rainfall Distribution** – Map visualization showing rainfall levels by region.
+2. **Monthly & Seasonal Trends** – Line charts for month-wise and season-wise rainfall.
+3. **Yearly Rainfall Analysis** – Bar/Line combo chart for year-on-year changes.
+4. **Extreme Rainfall Events** – Highlight years with unusual rainfall.
+5. **Interactive Filters** – Select region, year range, and season for custom analysis.
+
+##  Tools & Techniques Used
+- **Tableau Desktop**
+- **Calculated Fields for Seasonal Averages**
+- **Map Visualizations**
+- **Trend Lines & Moving Averages**
+- **Interactive Parameters & Filters**
