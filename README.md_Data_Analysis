@@ -1,0 +1,32 @@
+# Exploratory Data Analysis of UK Bank Customers
+**Data-Set:** `P1-UK-Bank-Customers`
+
+##  Project Overview
+This project analyzes a UK bank customers dataset to segment customers across different regions and uncover insights about the types of customers the bank serves. The analysis focuses on demographic and financial characteristics, utilizing Tableau’s advanced visualization features such as table calculations, parameters, dashboard interactivity, and storytelling.
+
+##  Objectives
+- Segment customers by region to understand geographic distribution.
+- Identify patterns in gender, age, balance, and job classification.
+- Build interactive and advanced dashboards for deeper analysis.
+- Create a storyline to present insights effectively.
+
+##  Key Analyses & Visualizations
+1. **Distribution by Region** – Number of customers in different regions.
+2. **Distribution by Gender (Pie Chart)** – Using table calculations for gender-based segmentation.
+3. **Distribution by Age** – Creating bins & distributions to segment customers by age groups.
+4. **Balance Distribution (Parameters)** – Using parameters to explore balance segmentation.
+5. **Job Classification (Tree Map)** – Distribution of customers by occupation.
+6. **Gender Distribution (Donut Chart)** – Another perspective on gender-based segmentation.
+7. **Customer Segmentation Dashboard** – Combining multiple KPIs and charts.
+8. **Advanced Dashboard Interactivity** – Filters, actions, and dynamic updates.
+9. **Storyline** – Step-by-step narrative of customer insights.
+
+##  Tools & Techniques Used
+- **Tableau Desktop**
+- **Table Calculations**
+- **Bins & Distributions**
+- **Parameters**
+- **Tree Map, Donut, Pie Charts**
+- **Interactive Dashboards**
+- **Storytelling in Tableau**
+
