@@ -1,0 +1,28 @@
+# Coal Terminal Maintenance Analysis
+**Data-Set:** `P2-Coal-Terminal-Maintenance`
+
+##  Project Overview
+This project analyzes coal terminal maintenance data to track operational efficiency, identify downtime causes, and optimize maintenance schedules. Using Tableau, interactive dashboards were created to visualize performance trends, maintenance activities, and cost implications.
+
+##  Objectives
+- Monitor coal terminal maintenance activities and performance.
+- Identify patterns in equipment downtime and repair frequency.
+- Track maintenance costs over time.
+- Provide actionable insights for maintenance planning and resource allocation.
+
+##  Key Analyses & Visualizations
+1. **Maintenance Activity Overview** – Total maintenance tasks by type and time period.
+2. **Equipment Downtime Analysis** – Visualizing downtime hours and their root causes.
+3. **Maintenance Cost Tracking** – Trend analysis of costs over months/years.
+4. **Breakdown Frequency by Equipment** – Identifying high-maintenance equipment.
+5. **Preventive vs Corrective Maintenance** – Comparing maintenance strategies.
+6. **Maintenance Scheduling Dashboard** – Interactive filters for date, equipment type, and location.
+7. **Operational Efficiency KPI Dashboard** – Combining maintenance KPIs in one view.
+
+##  Tools & Techniques Used
+- **Tableau Desktop**
+- **Calculated Fields**
+- **Interactive Filters & Parameters**
+- **Bar Charts, Line Charts, Pie Charts**
+- **Maintenance Performance KPIs**
+- **Dashboard Actions for Drill-Down Analysis**
