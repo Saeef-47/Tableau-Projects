@@ -1,0 +1,29 @@
+# Google Play Store Data Analysis Dashboard
+**Project Code:** `P5-Google-Play-Store-Analysis`
+
+## 📌 Project Overview
+This Tableau project analyzes Google Play Store app data to uncover trends in app categories, ratings, user engagement, and pricing models. The goal is to help app developers and marketers make data-driven decisions to improve app performance and market reach.
+
+## 🎯 Objectives
+- Identify the most popular app categories by installs and ratings.
+- Compare free vs paid apps in terms of ratings and downloads.
+- Analyze pricing patterns and their effect on user ratings.
+- Track rating distributions across categories.
+- Highlight top-performing apps.
+
+## 📊 Key Analyses & Visualizations
+1. **Category Popularity** – Bar chart showing installs by category.
+2. **Ratings Distribution** – Histogram of ratings.
+3. **Free vs Paid Analysis** – Comparison of ratings and downloads.
+4. **Price Impact on Ratings** – Scatter plot analysis.
+5. **Top Apps Leaderboard** – Table of highest-rated and most-installed apps.
+6. **Interactive Filters** – Filter by category, rating range, and type.
+
+## 🛠 Tools & Techniques Used
+- **Tableau Desktop**
+- **Calculated Fields & Table Calculations**
+- **Bar Charts, Scatter Plots, Histograms**
+- **Interactive Parameters & Filters**
+- **KPI Cards for App Statistics**
+
+## 📂 Project Structure
