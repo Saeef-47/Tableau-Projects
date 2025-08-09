@@ -1,0 +1,27 @@
+# Airbnb Data Analysis Dashboard
+**Data-Set:** `P7-Airbnb-Analysis`
+
+##  Project Overview
+This Tableau project analyzes Airbnb listings data to uncover insights about pricing trends, property distribution, and host activity. The interactive dashboard helps potential hosts, travelers, and market researchers understand patterns in the short-term rental market.
+
+##  Objectives
+- Examine pricing trends based on location, property type, and availability.
+- Analyze host performance and listing distribution.
+- Identify high-demand areas for short-term rentals.
+- Study seasonal availability trends.
+- Provide an interactive dashboard for exploring Airbnb market data.
+
+##  Key Analyses & Visualizations
+1. **Geographical Distribution of Listings** – Map view of properties by location.
+2. **Average Price by Neighborhood** – Bar chart analysis.
+3. **Property Type Distribution** – Pie/Donut chart showing room types.
+4. **Host Activity** – Insights on number of listings per host.
+5. **Availability Trends** – Monthly and seasonal availability analysis.
+6. **Interactive Filters** – Search by neighborhood, price range, and property type.
+
+##  Tools & Techniques Used
+- **Tableau Desktop**
+- **Geo Maps for Location Analysis**
+- **Calculated Fields for Price Segmentation**
+- **Parameters for Price Range Filtering**
+- **Interactive Dashboard Actions**
